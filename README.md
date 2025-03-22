@@ -1,4 +1,4 @@
-# 🏡 House Inspection for Loan Evaluation — Regression Modeling
+# 🏡 House Inspection for Loan Evaluation - Regression - Machine Learning Project #1
 
 ## 📘 Overview
 
