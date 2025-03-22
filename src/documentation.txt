@@ -1,0 +1,29 @@
+Column Descriptions 📊
+
+1. Property Quality & Features  
+- OverallQual – Overall quality (higher is better)  
+- ExterQual_TA – Exterior quality (TA = Typical/Average)  
+- KitchenQual_TA – Kitchen quality (TA = Typical/Average)  
+
+2. Year Info  
+- YearBuilt – Year built  
+- YearRemodAdd – Year remodeled or added  
+
+3. Size & Area  
+- TotalBsmtSF – Basement area (sq ft)  
+- 1stFlrSF – First-floor area (sq ft)  
+- GrLivArea – Above-ground living area  
+
+4. Rooms & Baths  
+- FullBath – Number of full bathrooms  
+- TotRmsAbvGrd – Total rooms above ground  
+
+5. Garage Info  
+- GarageCars – Garage capacity (cars)  
+- GarageArea – Garage area (sq ft)  
+
+6. Foundation Type  
+- Foundation_PConc – Foundation type (Poured Concrete)  
+
+7. Target Variable  
+- SalePrice – House sale price (regression target)  
