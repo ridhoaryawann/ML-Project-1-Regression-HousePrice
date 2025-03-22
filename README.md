@@ -1,4 +1,4 @@
-# 🏡 House Inspection for Loan Evaluation — Simple Regression Modeling
+# 🏡 House Inspection for Loan Evaluation — Regression Modeling
 
 ## 📘 Overview
 
